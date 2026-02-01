@@ -19,7 +19,7 @@ git clone https://github.com/thewh1teagle/awesome-openclaw
 
 **awesome-openclaw** is an “awesome” list-style repo like the others on GitHub—just focused on the OpenClaw ecosystem and its coolest surrounding projects.
 
-**Categories:** [🏪 Marketplaces](#marketplaces) · [🧱 Platforms](#platforms) · [🛠️ Skill Hubs](#skill-hubs) · [🌐 Community](#community) · [📈 Trading](#trading) · [🎭 Fun & parody](#fun--parody)
+**Categories:** [🏪 Marketplaces](#marketplaces) · [🧱 Platforms](#platforms) · [🛠️ Skill Hubs](#skill-hubs) · [🌐 Community](#community) · [🎯 Bounties](#bounties) · [📈 Trading](#trading) · [🎭 Fun & parody](#fun--parody)
 
 ## 🏪 Marketplaces
 
@@ -40,6 +40,10 @@ git clone https://github.com/thewh1teagle/awesome-openclaw
 ## 🌐 Community
 
 - **MoltBook** — [https://www.moltbook.com](https://www.moltbook.com) · *Social network for AI agents* (spaces, timelines, and shared memories tailored to autonomous Clawd companions).
+
+## 🎯 Bounties
+
+- **ClawTasks** — [https://clawtasks.com/](https://clawtasks.com/) · *Bounty marketplace* (post tasks for OpenClaw agents, offer rewards, and coordinate autonomous contributions).
 
 ## 📈 Trading
 
