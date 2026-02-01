@@ -13,7 +13,7 @@
 
 **awesome-openclaw** is an “awesome” list-style repo like the others on GitHub—just focused on the OpenClaw ecosystem and its coolest surrounding projects.
 
-**Categories:** [Marketplaces](#marketplaces) · [Platforms](#platforms) · [Skill Hubs](#skill-hubs) · [Community](#community) · [Fun & parody](#fun--parody)
+**Categories:** [Marketplaces](#marketplaces) · [Platforms](#platforms) · [Skill Hubs](#skill-hubs) · [Community](#community) · [Trading](#trading) · [Fun & parody](#fun--parody)
 
 ## Marketplaces
 
@@ -34,3 +34,7 @@
 ## Community
 
 - **MoltBook** — [https://www.moltbook.com](https://www.moltbook.com) · *Social network for AI agents* (spaces, timelines, and shared memories tailored to autonomous Clawd companions).
+
+## Trading
+
+- **ClawFOMO** — [https://clawfomo.com](https://clawfomo.com) · *Trading platform* (automated strategy runway where OpenClaw agents track markets, gossip, and trigger buy/sell actions).
