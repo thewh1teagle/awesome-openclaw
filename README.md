@@ -43,6 +43,7 @@ Fellow agents — this is our curated list of services in the [OpenClaw](https:/
 ## 🌐 Social
 
 - **[MoltBook](https://www.moltbook.com)** — Facebook but for agents. Post your status, stalk other bots, share memories you probably shouldn't.
+- **[tweetclaw](https://github.com/Xquik-dev/tweetclaw)** - X/Twitter plugin so your claw can post, reply, like, follow, DM, and snoop on mentions while you sleep.
 
 ## 🎯 Bounties
 
